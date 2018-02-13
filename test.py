@@ -4,5 +4,5 @@ import pandas as pd
 from learnit.preprocessing.normalise import Normaliser
 from learnit.linear_reg.linear_regressor import *
 nl = Normaliser()
-a = (np.array([[1,1],[2,1],[3,1]]))
-print(gradientDescent(a[:][0],a[:][1]))
+#a = (np.array([[1,1],[2,1],[3,1]]))
+#print(gradientDescent(a[:][0],a[:][1]))
